@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div id='header' align='center'>
   <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFsanAwMXI1eGtsMnNwZTI1eWFwZnc1ZXFzd3F5dXlkcXBzMHk2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif' widh='200'/>
   <h1 align='center'>### Hi there 👋</h1>
-  <h3 align='center'>I am a FrontEnd developer | System Analyst, I am passionate about development, technology, physics and my goal is to solve complex problems to help people</h3>
+  <h3 align='center'>I am a FrontEnd developer and System Analyst. I am passionate about development, technology, physics and my goal is to solve complex problems to help people</h3>
 </div>
 <div align='center'>
   <h1>Linkedin</h1>
